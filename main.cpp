@@ -108,13 +108,13 @@ alarm.beep();
 //  action 3:   uses up the battery
 alarm.depleteBattery();
 //  8)
-//  Noun:       oven
-//  action 1:   preheats
-oven.preHeat();
-//  action 2:   warms up the room
-oven.warmRoom();
-//  action 3:   cooks your food
-oven.cookFood();
+//  Noun:       matkat
+//  action 1:   creates online course
+matKat.createCourse();
+//  action 2:   posts course online for free
+matKat.postForFree();
+//  action 3:   Requests a change
+matKat.requestChange();
 //  9)
 //  Noun:       heart
 //  action 1: beats at a rhythm
