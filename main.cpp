@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       remote
+//  action 1:   changes the channel
+remote.changeChannel();
+//  action 2:   turns up the volume
+remote.increaseVolume();
+//  action 3:   opens the menu
+remote.openMenu();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       cat
+//  action 1:   begs for food
+cat.begForFood();
+//  action 2:   meow
+cat.meow();
+//  action 3:   kneads
+cat.knead();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       guitar pedal
+//  action 1:   distorts
+pedal.distort();
+//  action 2:   creates delay
+pedal.addDelay();
+//  action 3:   add a lil flange, why not
+pedal.Flanger();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       shoe
+//  action 1:   protects your feet
+shoe.protectFeet();
+//  action 2:   loosens the laces
+shoe.loosenLaces();
+//  action 3:   lets in water even though it was called "waterproof" in the store
+shoe.letInWater();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       smart watch
+//  action 1: tells the time
+watch.tellTime();
+//  action 2:   displays messages
+watch.displayMessage();
+//  action 3:   counts your steps
+watch.countSteps();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       towel
+//  action 1:   drys you off
+towel.dryUser();
+//  action 2: absorbs sound in the bathroom
+towel.absordSound();
+//  action 3: retains a smell
+towel.retainSmell();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       smoke alarm
+//  action 1:   sniffs out your good cooking
+alarm.detectSmoke();
+//  action 2:   beeps like mad
+alarm.beep();
+//  action 3:   uses up the battery
+alarm.depleteBattery();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       matkat
+//  action 1:   creates online course
+matKat.createCourse();
+//  action 2:   posts course online for free
+matKat.postForFree();
+//  action 3:   Requests a change
+matKat.requestChange();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       heart
+//  action 1: beats at a rhythm
+heart.beat();
+//  action 2:   pumps blood
+heart.pumpBlood();
+//  action 3:   freaks out when the smoke alarm started beeping
+heart.attack();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       photoshop
+//  action 1:   adds a sick motion blur to your photo
+photoshop.blur();
+//  action 2:   adds a sick mosaic filter to your photo
+photoshop.mosaic();
+//  action 3:   adds a sick inversion to the colors of your photo
+photoshop.invertColors();
 
 
 #endif
